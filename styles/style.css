@@ -127,8 +127,8 @@ body{
 
 .rodapé{
     padding: 16.1px;
-    color: var(--cor-primaria);;
-    background-color: var(--cor-secundaria);
+    color: var(--cor-secundaria);
+    background-color: var(--cor-primaria);
     text-align: center;
     font-family: var(--fonte-secundaria);
     font-size: 0.93rem;
